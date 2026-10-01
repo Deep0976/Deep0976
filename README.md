@@ -37,7 +37,7 @@ Final-year student at **NIT Rourkela** · previously **Product Operations at Ved
 ![GA4](https://img.shields.io/badge/GA4-E37400?logo=googleanalytics&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
-**Product:** discovery · user interviews · PRDs · prioritisation · cohort analysis · GTM
+**Product:** discovery · user interviews · PRDs · prioritisation · cohort analysis · GTM<br/>
 **AI:** agents · RAG · LLM evals · voice AI · human-in-the-loop design
 
 ### 📫 Reach me
