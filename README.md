@@ -1,7 +1,7 @@
 ### Hi, I'm Deep 👋
 
 I build AI products end to end, from finding the problem through the prototype and evals to shipping and talking to users.
-I'm a dual-degree student at **NIT Rourkela** and I've worked in **Product Operations at Vedantu**. My focus is AI agents, RAG and voice AI for Indian users.
+I'm a final-year student at **NIT Rourkela** and I've worked in **Product Operations at Vedantu**. My focus is AI agents, RAG and voice AI for Indian users.
 
 #### 🚀 Things I've built
 
